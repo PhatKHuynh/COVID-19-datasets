@@ -2,11 +2,11 @@
 Datasets of the paper "A Domain-knowledge Modeling of Hospital-acquired Infection Risk in Healthcare Personnel from Retrospective Observational Data: A Case Study for COVID-19"
 The data used in the paper “A Domain-knowledge Modeling of Hospital-acquired Infection Risk in Healthcare Personnel from Retrospective Observational Data: A Case Study for COVID-19” was summarized and described in the Table 1 and Table 2. We do not own the datasets, so we are only able to provide the links and references to the following datasets:
 
-+ “California Health Center Survey Data” [1]: Term of use (https://www.chcf.org/about/terms-of-use/), contact information - CHCF External Engagement team (https://www.chcf.org/person/audrey-chiang/) 
++ “California Health Center Survey Data” [1]: term of use (https://www.chcf.org/about/terms-of-use/), contact information - CHCF External Engagement team (https://www.chcf.org/person/audrey-chiang/) 
 + “O-Net Data” [2]: email: onet@onetcenter.org
-+ “COVID-NET Data” [3]: Content source: National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases, U.S. CDC
++ “COVID-NET Data” [3]: content source: National Center for Immunization and Respiratory Diseases (NCIRD), Division of Viral Diseases, U.S. CDC
 + “Texas COVID-19 Data” [4]: email: coronavirus@dshs.texas.gov
-+ “COVID-19 HCP UK” [5]: Data sources are availble from the article: "A national cross-sectional observational study identifying risk factors for developing suspected or confirmed COVID-19 in UK healthcare workers".
++ “COVID-19 HCP UK” [5]: data sources are availble from the article: "A national cross-sectional observational study identifying risk factors for developing suspected or confirmed COVID-19 in UK healthcare workers".
 
 **References**
 
