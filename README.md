@@ -1,10 +1,11 @@
 # COVID-19-datasets
 Datasets of the paper "A Domain-knowledge Modeling of Hospital-acquired Infection Risk in Healthcare Personnel from Retrospective Observational Data: A Case Study for COVID-19"
-The data used in the paper “A Domain-knowledge Modeling of Hospital-acquired Infection Risk in Healthcare Personnel from Retrospective Observational Data: A Case Study for COVID-19” was summarized and described in the Table 1 and Table 2. We do not own these databases; hence the data may be protected by the copyright law. We have combined the datasets together and organize them into 4 folders and 1 Excel file:
+The data used in the paper “A Domain-knowledge Modeling of Hospital-acquired Infection Risk in Healthcare Personnel from Retrospective Observational Data: A Case Study for COVID-19” was summarized and described in the Table 1 and Table 2. We do not own the datasets, so we are only able to provide the links and references to the following datasets:
+
 + “California Health Center Survey Data” [1]
 + “O-Net Data” [2]
 + “COVID-NET Data” [3]
-+ “Texas COVID-19 Data.xlsx” [4]
++ “Texas COVID-19 Data” [4]
 + “COVID-19 HCP UK” [5]
 
 **References**
